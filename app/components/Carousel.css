@@ -1,0 +1,16 @@
+.first {
+    left: -100vw;
+    transition: ease-in-out 1000ms;
+    position: absolute;
+}
+
+.second {
+    left: 0;
+    transition: ease-in-out 1000ms;
+    position: absolute;
+}
+
+.third {
+    left: 100vw;
+    position: absolute;
+}

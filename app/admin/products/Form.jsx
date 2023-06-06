@@ -114,7 +114,7 @@ export default function Form() {
                             }}/>
                     </label>
               
-                <button className='w-full h-10 bg-mainorange text-white font-semibold' onClick={(e) => handleSubmit(e)}>Create</button>
+                <button className='w-full h-10 bg-mainorange text-white font-semibold' onClick={(e) => handleSubmit(e)}>Create Product</button>
               </div>
             </div>
     </form>
